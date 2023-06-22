@@ -56,10 +56,8 @@
         }
       ],
       "drc_exclusions": [
-        "starved_thermal|71120000|88900000|95e7438f-3f3b-449d-b636-00b78b56f0a0|1be42be5-ba8a-423b-838f-d22f75831b21|B.Cu",
-        "starved_thermal|73660000|88900000|95e7438f-3f3b-449d-b636-00b78b56f0a0|eebb02ca-a7a9-402a-ae3b-21d2912ea7b4|B.Cu",
-        "starved_thermal|96520000|88900000|95e7438f-3f3b-449d-b636-00b78b56f0a0|5af2ddc3-4c76-4beb-90f6-d7ee40674229|B.Cu",
-        "starved_thermal|99060000|101600000|95e7438f-3f3b-449d-b636-00b78b56f0a0|c4078282-14e9-4b8c-ad92-6db07c1dc3dc|B.Cu"
+        "lib_footprint_issues|154042500|89780169|9d503fd7-64a7-4858-8947-6f7af197197b|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|189602500|88331250|92109046-7f1a-4f92-94e4-ca69c72517a8|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -444,7 +442,7 @@
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 1.0,
+        "track_width": 2.0,
         "via_diameter": 0.9,
         "via_drill": 0.4,
         "wire_width": 12
@@ -522,6 +520,6 @@
     ]
   ],
   "text_variables": {
-    "Rev": "A"
+    "Rev": "B"
   }
 }
