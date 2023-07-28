@@ -2547,7 +2547,7 @@
   (symbol (lib_id "Connector_Generic:Conn_2Rows-19Pins") (at 256.54 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8bc8992d-0c34-4722-8d44-c69961a537f4)
-    (property "Reference" "J3" (at 257.81 55.88 0)
+    (property "Reference" "J2" (at 257.81 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_2Rows-19Pins" (at 257.81 58.42 0)
@@ -2581,7 +2581,7 @@
     (instances
       (project "PCTGotekAdapter"
         (path "/7ffcb4f6-1ab6-49c2-b08b-a8faac924e64"
-          (reference "J3") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
@@ -2792,7 +2792,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x17_Odd_Even") (at 38.1 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b7c3fa26-a2a0-4e15-abf0-06edb5269cbf)
-    (property "Reference" "J4" (at 39.37 68.58 0)
+    (property "Reference" "J3" (at 39.37 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_02x17_Odd_Even" (at 39.37 71.12 0)
@@ -2841,7 +2841,7 @@
     (instances
       (project "PCTGotekAdapter"
         (path "/7ffcb4f6-1ab6-49c2-b08b-a8faac924e64"
-          (reference "J4") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
