@@ -6,9 +6,10 @@
 
   (title_block
     (title "PC Transporter to MS DOS Drive Adapter")
-    (date "2023-06-04")
+    (date "2023-07-27")
     (rev "${Rev}")
-    (company "Author: AJ Fite <N7AJ@ajfite.com>")
+    (company "Author: AJ Fite <me@ajfite.com>")
+    (comment 1 "Note: There is no J4 due to changes in Rev B")
   )
 
   (lib_symbols
@@ -1261,9 +1262,15 @@
 
   (no_connect (at 45.72 30.48) (uuid 0ce87b82-a131-4b73-ad59-96747c1c5d75))
   (no_connect (at 45.72 80.01) (uuid 22cd04fd-b264-4473-b050-2d8ce960695c))
+  (no_connect (at 111.76 110.49) (uuid 245d4a0c-5d03-4616-a82f-53c1409cb1fa))
+  (no_connect (at 111.76 118.11) (uuid 6546f877-71f7-4b65-9d81-55b80e5cbc03))
+  (no_connect (at 111.76 113.03) (uuid 7c05347a-581a-45d6-ae0f-0a9b9b25eafc))
   (no_connect (at 45.72 40.64) (uuid 900e4252-a49e-469e-9c31-b176f318460d))
+  (no_connect (at 111.76 128.27) (uuid 95f6e8af-b5ef-484c-847b-07612545effc))
   (no_connect (at 45.72 77.47) (uuid 973bc0b0-005a-4a1b-aee5-6b785e4800b1))
+  (no_connect (at 111.76 120.65) (uuid 9932f8bd-a963-4b83-bff3-2cbd936638ee))
   (no_connect (at 45.72 66.04) (uuid 9e3d7a8f-c874-4d44-ab44-5a65393b582c))
+  (no_connect (at 111.76 115.57) (uuid a2278079-6c32-4321-b3c2-489637450b6a))
   (no_connect (at 45.72 27.94) (uuid a771aeb7-248c-4e65-a7f1-3cf7017a346e))
   (no_connect (at 45.72 115.57) (uuid ad153456-f554-41e6-b6d4-651b634fb5f8))
   (no_connect (at 45.72 74.93) (uuid e892246e-93ef-4879-9705-9ec266d474a3))

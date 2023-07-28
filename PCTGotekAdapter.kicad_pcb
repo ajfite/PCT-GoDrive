@@ -7,9 +7,10 @@
   (paper "A4")
   (title_block
     (title "PC Transporter to MS DOS Drive Adapter")
-    (date "2023-06-21")
+    (date "2023-07-27")
     (rev "${Rev}")
-    (company "AJ Fite <N7AJ@ajfite.com>")
+    (company "AJ Fite <me@ajfite.com>")
+    (comment 1 "Note: There is no J4 due to changes in Rev B")
   )
 
   (layers
