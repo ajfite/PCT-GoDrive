@@ -2,3 +2,5 @@ PCTGotekAdapter-backups/
 *.swp
 *.zip
 .DS_Store
+*.kicad_sch.lck
+\#auto_saved_files#
